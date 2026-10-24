@@ -1,0 +1,6 @@
+{
+  "name": "Alishba Finds — Quiet Luxury Handbags & Accessories",
+  "description": "Your next favorite find in quiet luxury handcrafted leather handbags, shoulder bags, and fashion accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
